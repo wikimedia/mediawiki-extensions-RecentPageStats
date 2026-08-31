@@ -1,0 +1,22 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"recentpagestats-namespace-main": "(Principale)",
+	"recentpagestats-sort-label": "Ordina per:",
+	"recentpagestats-submit": "Mostra",
+	"recentpagestats-header-lasttime": "Ora dell'ultima modifica",
+	"recentpagestats-header-pagesize": "Dimensioni pagina",
+	"recentpagestats-includeminor-label": "Includi modifiche minori",
+	"recentpagestats-unknown-user": "Utente sconosciuto",
+	"recentchangesstats-new-pages": "Nuove pagine create",
+	"recentchangesstats-avg-edits": "Media di modifiche per pagina",
+	"recentchangesstats-ns-name": "Namespace",
+	"recentchangesstats-ns-edits": "Modifiche",
+	"recentchangesstats-ns-pages": "Pagine",
+	"recentchangesstats-editor-pages": "Pagine modificate",
+	"recentchangesstats-daily-edits": "Modifiche",
+	"recentchangesstats-daily-activity": "Attività"
+}

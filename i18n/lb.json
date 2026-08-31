@@ -1,0 +1,28 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volvox"
+		]
+	},
+	"recentpagestats-legend": "Filteroptiounen",
+	"recentpagestats-namespace-label": "Nummraum:",
+	"recentpagestats-namespace-all": "All Nummraim",
+	"recentpagestats-namespace-main": "(Haapt)",
+	"recentpagestats-sort-label": "Sortéieren no:",
+	"recentpagestats-header-page": "Säitentitel",
+	"recentpagestats-bytes": "Byte",
+	"recentpagestats-unknown-user": "Onbekannte Benotzer",
+	"recentchangesstats-summary-title": "Resümmee",
+	"recentchangesstats-new-pages": "Nei Säiten ugeluecht",
+	"recentchangesstats-minor-edits": "Kleng Ännerungen",
+	"recentchangesstats-namespace-title": "Aktivitéit no Nummraum",
+	"recentchangesstats-ns-name": "Nummraum",
+	"recentchangesstats-ns-edits": "Ännerungen",
+	"recentchangesstats-ns-pages": "Säiten",
+	"recentchangesstats-editor-edits": "Ännerungen",
+	"recentchangesstats-daily-title": "Deeglech Aktivitéit",
+	"recentchangesstats-daily-date": "Datum",
+	"recentchangesstats-daily-edits": "Ännerungen",
+	"recentchangesstats-daily-pages": "Säiten",
+	"recentchangesstats-daily-activity": "Aktivitéit"
+}
