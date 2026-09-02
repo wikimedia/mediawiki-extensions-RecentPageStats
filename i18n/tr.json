@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda"
+			"Hedda",
+			"Slickdaddy"
 		]
 	},
 	"recentpagestats": "Son Sayfa İstatistikleri",
@@ -20,8 +21,8 @@
 	"recentpagestats-header-editor": "Son düzenleyen",
 	"recentpagestats-header-lasttime": "Son düzenleme zamanı",
 	"recentpagestats-header-editcount": "Dönem İçindeki Düzenlemeler",
-	"recentpagestats-header-pagesize": "Sayfa Boyutu",
-	"recentpagestats-includeminor-label": "küçük düzenlemeleri dahil et",
+	"recentpagestats-header-pagesize": "Sayfa boyutu",
+	"recentpagestats-includeminor-label": "Küçük düzenlemeleri dahil et",
 	"recentpagestats-bytes": "bayt",
 	"recentpagestats-kb": "KB",
 	"recentpagestats-no-results": "Bu kriterlere uyan herhangi bir sayfa bulunamadı.",
@@ -34,9 +35,9 @@
 	"recentchangesstats-summary-title": "Özet",
 	"recentchangesstats-total-edits": "Toplam düzenleme",
 	"recentchangesstats-total-pages": "Düzenlenen sayfa",
-	"recentchangesstats-unique-editors": "Benzersiz editör",
+	"recentchangesstats-unique-editors": "Benzersiz editörler",
 	"recentchangesstats-new-pages": "Oluşturulan yeni sayfa",
-	"recentchangesstats-minor-edits": "Küçük değişiklik",
+	"recentchangesstats-minor-edits": "Küçük değişiklikler",
 	"recentchangesstats-avg-edits": "Sayfa başına ort. düzenleme",
 	"recentchangesstats-namespace-title": "Ad alanına göre etkinlik",
 	"recentchangesstats-ns-name": "Ad alanı",
