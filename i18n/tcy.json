@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bharathesha Alasandemajalu"
+			"Bharathesha Alasandemajalu",
+			"ChiK"
 		]
 	},
 	"recentpagestats-legend": "ಅರಿಪ್ಪುನ ಆಯ್ಕೆಲು",
@@ -10,7 +11,7 @@
 	"recentpagestats-sort-time": "ಕಡೆತ ತಿದ್ದುಪಡಿ ಆಯಿನ ಪೊರ್ತು",
 	"recentpagestats-sort-count": "ಸಂಪಾದಿ ಲೆಕ್ಕ",
 	"recentpagestats-submit": "ತೋಜಾಲೆ",
-	"recentpagestats-header-page": "ಪುಟೊದ ಪುದರ್",
+	"recentpagestats-header-page": "ಪುಟೊತ ಪುದರ್",
 	"recentpagestats-header-pagesize": "ಪುಟತೊ ಗಾತ್ರ",
 	"recentpagestats-bytes": "ಬೈಟ್‌ಲು",
 	"recentpagestats-kb": "ಕೆ.ಬಿ",
