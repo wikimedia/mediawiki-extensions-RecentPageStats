@@ -10,6 +10,7 @@
 				"severity": "warning"
 			}
 		],
-		"selector-class-pattern": null
+		"selector-class-pattern": null,
+		"wikimedia/selector-class-prefix": null
 	}
 }
